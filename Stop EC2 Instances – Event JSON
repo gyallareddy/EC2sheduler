@@ -1,0 +1,13 @@
+{
+  "version": "0",
+  "id": "fghij456-7890-1234-cdef-9876543210ef",
+  "detail-type": "Scheduled Event",
+  "source": "aws.events",
+  "account": "688567266155",
+  "time": "2025-10-04T12:30:00Z",
+  "region": "us-east-1",
+  "resources": [
+    "arn:aws:events:us-east-1:688567266155:rule/StopEC2Instances1800IST"
+  ],
+  "detail": {}
+}
