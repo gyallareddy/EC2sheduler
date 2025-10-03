@@ -1,0 +1,13 @@
+{
+  "version": "0",
+  "id": "abcde123-4567-890a-bcde-1234567890ab",
+  "detail-type": "Scheduled Event",
+  "source": "aws.events",
+  "account": "688567266155",
+  "time": "2025-10-04T03:30:00Z",
+  "region": "us-east-1",
+  "resources": [
+    "arn:aws:events:us-east-1:688567266155:rule/StartEC2Instances0900IST"
+  ],
+  "detail": {}
+}
